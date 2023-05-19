@@ -1,0 +1,25 @@
+TO DO
+
+CONSEGUIR DESERIALIZAR BIEN
+
+COMPRA.HTML/ENTRADAS.CSS/ENTRADAS.JS
+//////Estaria bien ver si consigo hacer la parte de autenticacion.
+//////Esto se haria en la seccion de perfil y habria que añadir una columna relacionada con usuario al carrito.
+Estaria bien tambien hacer la parte de idioma
+
+///////PERFIL.HTML
+///////Hacer un area de autenticacion
+///////y una vez ya autenticado que se pueda cambiar la contraseña 
+
+MEMES.HTML
+
+//Poner unos buenos momazos de alonso
+Añadir cosas al posts.json para hacerlo mejor
+
+CARRITO.HTML
+
+/////Montar el carrito, te tienen que aparecer cuantas entradas y que calcule el precio. Cuando le des a pagar que /////te lleve a gracias
+
+/////idiomas.js
+
+/////Conseguir hacer el default para q no se quede tonto despues de hacer el borrado
